@@ -1,0 +1,2 @@
+Time complexity analysis for the insertion operation  = O(log n)
+Time complexity analysis for the traversal operations = O(n)
